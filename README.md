@@ -1,2 +1,3 @@
-# PythonLearning
-Learn python and data analysis
+# Python Learning
+- Learn python and data analysis
+- By CherryKun
